@@ -1,0 +1,17 @@
+{
+    "explorer.openEditors.sortOrder": "editorOrder",
+    "explorer.sortOrderLexicographicOptions": "default",
+    "explorer.sortOrder": "filesFirst",
+    "outline.collapseItems": "alwaysCollapse",
+    "explorer.incrementalNaming": "simple",
+    "outline.icons": true,
+    "outline.showArrays": true,
+    "outline.showBooleans": true,
+    "explorer.openEditors.visible": 9,
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.expand": true,
+    "explorer.expandSingleFolderWorkspaces": true,
+    "explorer.excludeGitIgnore": true,
+    "explorer.openEditors.minVisible": 0,
+    "explorer.enableUndo": true
+}
