@@ -1,4 +1,4 @@
-# notes2
+# Bmb Gallery
 
 A new Flutter project.
 
